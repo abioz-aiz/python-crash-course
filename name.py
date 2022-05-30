@@ -10,6 +10,9 @@ last_name="lovelace"
 full_name=f"{first_name} {last_name}"
 print(full_name)
  
+ print("\tPython")
+ print("Languages:\nPython\nC\nJavaScript")
+ 
  #apostrophe.py
 
 message='One of Python\'s code\'s is malfunctioning'
